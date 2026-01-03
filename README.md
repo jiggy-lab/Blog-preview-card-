@@ -1,3 +1,4 @@
+
 # Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckP9_QC665). 
@@ -47,11 +48,10 @@ The most challenging part was fixing the layout when the phone is rotated to lan
 ### Development notes
 Coding this on a smartphone was a unique challenge! I enjoyed it cos of its portability.
 
-## Author
+### Author
 
 - Frontend Mentor - [@jiggy-lab](https://www.frontendmentor.io/profile/jiggy-lab)
 - GitHub - [jiggy-lab](https://github.com/jiggy-lab)
-- Twitter/X - [@yourusername](https://twitter.com/yourusername) - LinkedIn - [Your Name](https://www.linkedin.com/in/yourprofile)   '''
 
 ```css
 /* My favorite snippet from this project */
