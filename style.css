@@ -143,14 +143,16 @@ main {
 }
 
 .card-content button:hover {
-  background-color: #f5d04e; 
-}
-
+  background-color: var(--yellow);
+  transform: translate(-2px, -2px); 
+  box-shadow: 2px 2px 0px var(--black);
+  cursor: pointer;
+  }
+  
 .card-content h2:hover {
   color: var(--yellow);
   cursor: pointer;
 }
-
 
 .publish {
   color: var(--black);
