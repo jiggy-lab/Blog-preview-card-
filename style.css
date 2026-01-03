@@ -143,11 +143,11 @@ main {
 }
 
 .card-content button:hover {
-  background-color: var(--yellow);
-  transform: translate(-2px, -2px); 
-  box-shadow: 2px 2px 0px var(--black);
+  background-color: var(--black);
+  color: var(--white);
   cursor: pointer;
-  }
+  transition: all 0.2s ease;
+}
   
 .card-content h2:hover {
   color: var(--yellow);
