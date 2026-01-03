@@ -24,6 +24,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 - View the optimal layout depending on their device's screen size
 
+### Screenshot 
+![Solution Screenshot](./assets/images/blog.jpg)
+
 ### Links
 
 - Solution URL: [https://github.com/jiggy-lab/Blog-preview-card-.git]
