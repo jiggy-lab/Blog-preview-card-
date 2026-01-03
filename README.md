@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ https://github.com/jiggy-lab/Blog-preview-card-.git]
-- Live Site URL: [Add your live link here]
+- Solution URL: [https://github.com/jiggy-lab/Blog-preview-card-.git]
+- Live Site URL: [https://jiggy-lab.github.io/Blog-preview-card-/]
 
 ## My process
 
@@ -47,9 +47,11 @@ The most challenging part was fixing the layout when the phone is rotated to lan
 ### Development notes
 Coding this on a smartphone was a unique challenge! I enjoyed it cos of its portability.
 
-### Author
-​Frontend Mentor - @jiggy-lab
-​GitHub - jiggy-lab
+## Author
+
+- Frontend Mentor - [@jiggy-lab](https://www.frontendmentor.io/profile/jiggy-lab)
+- GitHub - [jiggy-lab](https://github.com/jiggy-lab)
+- Twitter/X - [@yourusername](https://twitter.com/yourusername) - LinkedIn - [Your Name](https://www.linkedin.com/in/yourprofile)   '''
 
 ```css
 /* My favorite snippet from this project */
