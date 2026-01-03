@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your GitHub link here]
+- Solution URL: [ https://github.com/jiggy-lab/Blog-preview-card-.git]
 - Live Site URL: [Add your live link here]
 
 ## My process
@@ -43,6 +43,13 @@ Users should be able to:
 This project helped me master Flexbox alignment and handling responsive issues on mobile browsers.
 
 The most challenging part was fixing the layout when the phone is rotated to landscape mode. I solved this by using `flex-grow: 1` on the main container and `min-height: 100dvh` on the body to handle dynamic browser toolbars.
+
+### Development notes
+Coding this on a smartphone was a unique challenge! I enjoyed it cos of its portability.
+
+### Author
+​Frontend Mentor - @jiggy-lab
+​GitHub - jiggy-lab
 
 ```css
 /* My favorite snippet from this project */
